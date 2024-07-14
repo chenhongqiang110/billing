@@ -1,0 +1,64 @@
+# config.yaml
+file_paths:
+
+  # 基础信息 Report
+  user_data: "data/user_data.xlsx"  # watsonX_Billing Tool 用户注册表
+  PM_PMO_PAL: "data/BmsDtlReportD.csv"  # PM/PMO/PAL人员表
+  Unregister: "data/2024 Unregister project contact focal with Code.xlsx"  # 项目未注册信息表
+
+  # CIC & GCG BMS Report
+  CIC_BMS_202401: "data/RowData/2401/202401 CIC Export BMS Report.xlsx"
+  CIC_BMS_202402: "data/RowData/2402/202402 CIC Export BMS Report.xlsx"
+  CIC_BMS_202403: "data/RowData/2403/202403 CIC Export BMS Report.xlsx"
+  CIC_BMS_202404: "data/RowData/2404/202404 CIC Export BMS Report.xlsx"
+  CIC_BMS_202405: "data/RowData/2405/202405 CIC Export BMS Report.xlsx"
+  CIC_BMS_202406: "data/RowData/2406/202406 CIC Export BMS Report.xlsx"
+
+  GCG_BMS_202401: "data/RowData/2401/202401 GCG Consulting BMS Report.xlsx"
+  GCG_BMS_202402: "data/RowData/2402/202402 GCG Consulting BMS Report.xlsx"
+  GCG_BMS_202403: "data/RowData/2403/202403 GCG Consulting BMS Report.xlsx"
+  GCG_BMS_202404: "data/RowData/2404/202404 GCG Consulting BMS Report.xlsx"
+  GCG_BMS_202405: "data/RowData/2405/202405 GCG Consulting BMS Report.xlsx"
+  GCG_BMS_202406: "data/RowData/2406/202406 GCG Consulting BMS Report.xlsx"
+
+
+  # CIC & GCG CATS Report
+  CIC_CATS_202401: "data/RowData/2401/202401 CIC Export CATS Report.xlsx"
+  CIC_CATS_202402: "data/RowData/2402/202402 CIC Export CATS Report.xlsx"
+  CIC_CATS_202403: "data/RowData/2403/202403 CIC Export CATS Report.xlsx"
+  CIC_CATS_202404: "data/RowData/2404/202404 CIC Export CATS Report.xlsx"
+  CIC_CATS_202405: "data/RowData/2405/202405 CIC Export CATS Report.xlsx"
+  CIC_CATS_202406: "data/RowData/2406/202406 CIC Export CATS Report.xlsx"
+
+  GCG_CATS_202401: "data/RowData/2401/202401 GCG Consulting CATS Report.xlsx"
+  GCG_CATS_202402: "data/RowData/2402/202402 GCG Consulting CATS Report.xlsx"
+  GCG_CATS_202403: "data/RowData/2403/202403 GCG Consulting CATS Report.xlsx"
+  GCG_CATS_202404: "data/RowData/2404/202404 GCG Consulting CATS Report.xlsx"
+  GCG_CATS_202405: "data/RowData/2405/202405 GCG Consulting CATS Report.xlsx"
+  GCG_CATS_202406: "data/RowData/2406/202406 GCG Consulting CATS Report.xlsx"
+
+
+  # CIC & GCG Charge Out Report
+  CIC_ChargeOut_202401: "data/RowData/2401/202401 CIC Export Manual Charge Out Report.xlsx"
+  CIC_ChargeOut_202402: "data/RowData/2402/202402 CIC Export Manual Charge Out Report.xlsx"
+  CIC_ChargeOut_202403: "data/RowData/2403/202403 CIC Export Manual Charge Out Report.xlsx"
+  CIC_ChargeOut_202404: "data/RowData/2404/202404 CIC Export Manual Charge Out Report.xlsx"
+  CIC_ChargeOut_202405: "data/RowData/2405/202405 CIC Export Manual Charge Out Report.xlsx"
+  CIC_ChargeOut_202406: "data/RowData/2406/202406 CIC Export Manual Charge Out Report.xlsx"
+
+  GCG_ChargeOut_202401: "data/RowData/2401/202401 GCG Consulting Manual Charge Out Report.xlsx"
+  GCG_ChargeOut_202402: "data/RowData/2402/202402 GCG Consulting Manual Charge Out Report.xlsx"
+  GCG_ChargeOut_202403: "data/RowData/2403/202403 GCG Consulting Manual Charge Out Report.xlsx"
+  GCG_ChargeOut_202404: "data/RowData/2404/202404 GCG Consulting Manual Charge Out Report.xlsx"
+  GCG_ChargeOut_202405: "data/RowData/2405/202405 GCG Consulting Manual Charge Out Report.xlsx"
+  GCG_ChargeOut_202406: "data/RowData/2406/202406 GCG Consulting Manual Charge Out Report.xlsx"
+
+
+  # Billing Report-Need Confirmation Report
+  Need_Confirmation_202401: "data/RowData/2401/202401 Billing Report-Need Confirmation.xlsx"
+  Need_Confirmation_202402: "data/RowData/2402/202402 Billing Report-Need Confirmation.xlsx"
+  Need_Confirmation_202403: "data/RowData/2403/202403 Billing Report-Need Confirmation.xlsx"
+  Need_Confirmation_202404: "data/RowData/2404/202404 Billing Report-Need Confirmation.xlsx"
+  Need_Confirmation_202405: "data/RowData/2405/202405 Billing Report-Need Confirmation.xlsx"
+  Need_Confirmation_202406: "data/RowData/2406/202406 Billing Report-Need Confirmation.xlsx"
+
